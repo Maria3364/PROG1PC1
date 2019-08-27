@@ -1,0 +1,12 @@
+pregunta 2: 
+
+objetivos: 
+
+	*velocidad.
+	*gran soporte completamente distribuido con manejo a 
+	 grandes proyectos.	 
+	*diseño sencillo.
+creador: 
+
+	*linux
+	*linus trovals
