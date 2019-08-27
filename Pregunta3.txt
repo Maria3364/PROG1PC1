@@ -1,0 +1,3 @@
+pregunta3: 
+
+multiplexación: Consiste en el envio de muchas peticiones  y respuestas diferentes a través de la misma conexión
